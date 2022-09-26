@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medicines-dashboard/static/css/main.8825739e.css",
+    "main.js": "/medicines-dashboard/static/js/main.0ee4e04a.js",
+    "index.html": "/medicines-dashboard/index.html",
+    "main.8825739e.css.map": "/medicines-dashboard/static/css/main.8825739e.css.map",
+    "main.0ee4e04a.js.map": "/medicines-dashboard/static/js/main.0ee4e04a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8825739e.css",
+    "static/js/main.0ee4e04a.js"
+  ]
+}
